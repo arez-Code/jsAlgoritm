@@ -1,4 +1,4 @@
-// function fuctoriel(num){
+// function factoriel(num){
 //   if(num === 0 || num === 1){
 //     return 1;
 //   }
@@ -9,6 +9,9 @@
 // }
 
 // console.log(fuctoriel(39));
+
+// summary
+
 function recursiveFactorial(num) {
   if (num === 0 || num === 1) {
       return 1;
