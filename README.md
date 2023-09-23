@@ -1,5 +1,4 @@
-# jsAlgoritm
-Report : <br>
-learn factoriel Algoritm<br>
-learn fibunachi Algoritm<br>
-learn linearSearch Algoritm
+Algorithms that I have learnedReport : <br>
+ factoriel Algoritm<br>
+ fibunachi Algoritm<br>
+ linearSearch Algoritm
